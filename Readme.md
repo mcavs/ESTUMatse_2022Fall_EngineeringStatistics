@@ -8,5 +8,9 @@ This a undergraduate course repository of Engineering Statistics at Eskisehir Te
 
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week1.pdf) 
 
+### Week 2. Measures for the center and variation / Oct 20, 2022 09:00
+
+[Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week2.pdf) 
+
 ---
 
