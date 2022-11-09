@@ -19,7 +19,7 @@ This a undergraduate course repository of Engineering Statistics at Eskisehir Te
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week3.pdf) 
 
 
-### Week 4. Discrite random variable, probability distribution and expected value - Nov 3, 2022 09:00
+### Week 4. Discrete random variable, probability distribution and expected value - Nov 3, 2022 09:00
 
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week4.pdf) 
 
