@@ -33,4 +33,4 @@ This a undergraduate course repository of Engineering Statistics at Eskisehir Te
 
 ### Final Exam - Jan 11, 2023 18:00
 
-## Make-up of final exam - Jan 30, 2023 18:00
+### Make-up of final exam - Jan 30, 2023 18:00
