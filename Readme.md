@@ -29,6 +29,11 @@ This a undergraduate course repository of Engineering Statistics at Eskisehir Te
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week5.pdf) 
 
 
+### Week 6. Sampling distributions - Dec 1, 2022 10:00
+
+[Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week6.pdf) 
+
+
 ### Make-up of midterm exam - Dec 26, 2022 18:00
 
 ### Final Exam - Jan 11, 2023 18:00
