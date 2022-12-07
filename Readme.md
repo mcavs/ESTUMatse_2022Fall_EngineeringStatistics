@@ -24,15 +24,22 @@ This a undergraduate course repository of Engineering Statistics at Eskisehir Te
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week4.pdf) 
 
 
-### Week 5. Continuous random variable, probability distribution and expected value - Nov 24, 2022 10:00
+### Week 5. Continuous random variable, probability distribution and expected value - Nov 24, 2022 09:00
 
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week5.pdf) 
 
 
-### Week 6. Sampling distributions - Dec 1, 2022 10:00
+### Week 6. Sampling distributions - Dec 1, 2022 09:00
 
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week6.pdf) 
 
+
+### Week 7. Confidence intervals - Dec 8, 2022 09:00
+
+[Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week7.pdf) 
+
+
+## Exam dates
 
 ### Make-up of midterm exam - Dec 26, 2022 18:00
 
