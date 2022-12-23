@@ -39,9 +39,19 @@ This a undergraduate course repository of Engineering Statistics at Eskisehir Te
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week7.pdf) 
 
 
+### Week 8. Hypothesis testing-I - Dec 15, 2022 09:00
+
+[Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week8.pdf) 
+
+
+### Week 9. Hypothesis testing-II - Dec 22, 2022 09:00
+
+[Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week9.pdf) 
+
+
 ## Exam dates
 
-### Make-up of midterm exam - Dec 26, 2022 18:00
+### Make-up of midterm exam - Dec 26, 2022 16:00 - ESTÜ Fen Fakültesi, İstatistik Bölümü
 
 ### Final Exam - Jan 11, 2023 18:00
 
