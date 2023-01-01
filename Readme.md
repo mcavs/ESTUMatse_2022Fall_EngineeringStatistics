@@ -53,6 +53,6 @@ This a undergraduate course repository of Engineering Statistics at Eskisehir Te
 
 ### Make-up of midterm exam - Dec 26, 2022 16:00 - ESTÜ Fen Fakültesi, İstatistik Bölümü
 
-### Final Exam - Jan 11, 2023 18:00
+### Final Exam - Jan 9, 2023 16:00 *updated!
 
 ### Make-up of final exam - Jan 30, 2023 18:00
