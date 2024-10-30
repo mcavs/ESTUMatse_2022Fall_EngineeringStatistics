@@ -1,6 +1,6 @@
 # Engineering Statistics
 
-This an undergraduate course repository of Engineering Statistics at Eskisehir Technical University, Department of Material Science and Engineering.
+This is an undergraduate course repository of Engineering Statistics at Eskisehir Technical University, Department of Material Science and Engineering.
 
 ## Contents
 
