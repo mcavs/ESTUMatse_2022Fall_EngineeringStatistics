@@ -45,3 +45,7 @@ This is an undergraduate course repository of Engineering Statistics at Eskisehi
 ### Week 9. Hypothesis testing-II 
 
 [Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week9.pdf) 
+
+### Week 10. Simple Linear Regression
+
+[Notes](https://github.com/mcavs/ESTUMatse_2022Fall_EngineeringStatistics/blob/main/EngStat_Week10.pdf) 
